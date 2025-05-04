@@ -1,9 +1,9 @@
 public class CombinedTable  
 {
-    public int seats2 = 0;
-    public double View2 = 0;
-    public SingleTable table1 = null;
-    public SingleTable table2 = null; 
+    private int seats2 = 0;
+    private double View2 = 0;
+    private SingleTable table1 = null;
+    private SingleTable table2 = null; 
 
     public CombinedTable(SingleTable t1, SingleTable t2)
     {
